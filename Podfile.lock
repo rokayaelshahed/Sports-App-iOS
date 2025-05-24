@@ -1,0 +1,22 @@
+PODS:
+  - ReachabilitySwift (5.2.4)
+  - SDWebImage (5.20.0):
+    - SDWebImage/Core (= 5.20.0)
+  - SDWebImage/Core (5.20.0)
+
+DEPENDENCIES:
+  - ReachabilitySwift (~> 5.0)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+  SDWebImage: 73c6079366fea25fa4bb9640d5fb58f0893facd8
+
+PODFILE CHECKSUM: 75adb12bd3e9d6dc00c4dfc53c66577aa8e168c2
+
+COCOAPODS: 1.16.2
